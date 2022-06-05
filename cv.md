@@ -17,8 +17,8 @@ Developed and provided maintenance for 20+ .NET websites, using ASP.NET MVC, jQu
 
 Freelance .NET Developer\
 June 2016–Nov 2017
-* Created five real-world eCommerce websites for various clients. One said, “You’ve increased my revenue by 50% overnight.”
-* Created an iOS notes app that uses persistent data storage to archive notes. App received 1,200+ downloads.
+- Created five real-world eCommerce websites for various clients. One said, “You’ve increased my revenue by 50% overnight.”
+- Created an iOS notes app that uses persistent data storage to archive notes. App received 1,200+ downloads.
 
 ## Education
 2012–2016 Stratford University\
