@@ -19,3 +19,14 @@ Freelance .NET Developer\
 June 2016–Nov 2017
 * Created five real-world eCommerce websites for various clients. One said, “You’ve increased my revenue by 50% overnight.”
 * Created an iOS notes app that uses persistent data storage to archive notes. App received 1,200+ downloads.
+## Education
+2012–2016 Stratford University\
+Bachelor of Science in Software Engineering
+* Redesigned the school’s alumni fundraising site with .NET. Increased alumni use 30%.
+* For senior project, trained 15 fellow students in ASP.NET MVC.
+## Skills
+* Soft skills: Time management, interpersonal skills, teamwork, communication
+* Hard skills: Programming, ASP.NET MVC, client-side web development, SQL
+## Activities
+* Developed .NET site for Salt Coast Animal Shelter. Increased donations 22%.
+* Avid surfer for fun and fitness.
