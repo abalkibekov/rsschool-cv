@@ -87,3 +87,21 @@ a {
 .nav-item:hover {
     background-color: var(--dark-color);    
 }
+
+.avatar-pic {
+    background-color: var(--light-color);
+    border-radius: 192px;
+}
+
+.section-profile {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.name {
+    text-align: center;
+}
+
+.contacts-list {
+    list-style: none;
+}
