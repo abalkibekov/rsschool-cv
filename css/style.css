@@ -1,3 +1,107 @@
+:root {
+    --main-color: #000000;
+    --text-color: #000000;
+    --dark-color: #ffb300;
+    --light-color: #e1ab2e;
+    --grey-color: #efeeec;
+}
+
 * {
-    color: blueviolet;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.container-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    width: 980px;
+    margin: 20px auto;
+    box-shadow: 10px 10px 40px -1px rgb(0 0 0 / 23%);
+}
+
+.header-container {
+    background-color: var(--light-color);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--text-color);
+    background-color: var(--grey-color);
+}
+
+.header-container,
+.main-container,
+.footer-container {
+    padding: 10px 50px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--light-color);
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+}
+
+.github-logo {
+    display: flex;
+    align-items: center;
+}
+
+.my-github {
+    margin: 0 10px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--main-color);
+}
+
+.nav-item {
+    transition: background-color 0.5s;
+    border-radius: 20px;
+}
+
+.nav-item:hover {
+    background-color: var(--dark-color);
+}
+
+.avatar-pic {
+    background-color: var(--light-color);
+    border-radius: 192px;
+}
+
+.section-profile {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.name {
+    text-align: center;
+}
+
+.contacts-list {
+    list-style: none;
 }
